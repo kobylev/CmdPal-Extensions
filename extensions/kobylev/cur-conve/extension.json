@@ -1,6 +1,6 @@
 {
     "$schema": "../../../.github/schemas/extension.schema.json",
-    "id": "kobylev.CurConve",
+    "id": "kobylev.cur-conve",
     "title": "Currency Converter",
     "shortDescription": "Real-time currency conversion directly from your Command Palette.",
     "description": "Currency Converter is a fast, lightweight extension for the Windows Command Palette that lets you seamlessly translate between global fiat currencies. Simply pull up your command palette, type in your amount, and get instant, accurate exchange rates with daily updates.",
